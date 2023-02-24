@@ -1,2 +1,3 @@
 # IssueBoard
-My issue board.
+ナレッジをまとめるのに使用しています。
+
